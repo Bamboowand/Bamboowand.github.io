@@ -1,0 +1,26 @@
+[
+    {
+      "longitude": 121.550991,
+      "altitide": 0,
+      "latitude": 25.050346,
+      "name": "小巨蛋旁地下停車場",
+      "label_type": "park",
+      "content": {
+        "total": 200,
+        "current": 100,
+        "description": "xxxxxxxxxxx"
+      }
+    },
+    {
+      "longitude": 121.551802,
+      "altitide": 0,
+      "name": "體育館前停車場",
+      "latitude": 25.0516,
+      "label_type": "park",
+      "content": {
+        "total": 123,
+        "current": 34,
+        "description": "yyyyyyyy"
+      }
+    }
+]
