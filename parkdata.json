@@ -7,8 +7,7 @@
       "label_type": "park",
       "content": {
         "total": 200,
-        "current": 100,
-        "description": "xxxxxxxxxxx"
+        "current": 100
       }
     },
     {
@@ -19,8 +18,7 @@
       "label_type": "park",
       "content": {
         "total": 123,
-        "current": 34,
-        "description": "yyyyyyyy"
+        "current": 34
       }
     }
 ]

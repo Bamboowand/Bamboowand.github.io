@@ -7,7 +7,7 @@
       "label_type": "scene",
       "content": {
         "detail_type": "web_page",
-        "icon": "台視電視台",
+        "icon": "https://bamboowand.github.io/pictures/%E5%8F%B0%E8%A6%96%E9%9B%BB%E8%A6%96%E5%8F%B0.png",
         "web_url": "https://www.ttv.com.tw"
       }
     },
@@ -19,7 +19,7 @@
       "label_type": "scene",
       "content": {
         "detail_type": "web_page",
-        "icon": "PizzaHut敦化餐廳",
+        "icon": "https://bamboowand.github.io/pictures/PizzaHut%E6%95%A6%E5%8C%96%E9%A4%90%E5%BB%B3.png",
         "web_url": "https://www.pizzahut.com.tw/?urlname=iP2018Gsearch&gclid=CjwKCAjw_-D3BRBIEiwAjVMy7IhpAWI3X3_u_xqZiHPSrURPWJP8lRYttGVhnxQw-G_rSRVGd_JUghoCnnUQAvD_BwE&gclsrc=aw.ds"
       }
     }
