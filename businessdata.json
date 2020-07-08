@@ -43,6 +43,34 @@
       }
     },
       {
+      "longitude": 121.526461,
+      "altitide": 0,
+      "latitude": 25.088356,
+      "name": "星巴克 (士林門市)",
+      "label_type": "business",
+      "content": {
+        "detail_type": "business_page",
+        "icon": "https://bamboowand.github.io/pictures/%E5%A3%AB%E6%9E%97.png",
+        "description": "台北市士林區文林路122號，店面消息：微風南京廣場由於重新裝潢，暫停營業，造成不便敬請見諒",
+        "livetour_url": "https://livetour.istaging.com/?group=16b91fc2-f167-4290-86a9-2bd4b3fa2c39&index=7&panobar=false",
+        "livetour_texture": "https://bamboowand.github.io/pictures/%E5%A3%AB%E6%9E%97.png"
+      }
+    },
+    {
+      "longitude": 121.489208,
+      "altitide": 0,
+      "latitude": 25.089474,
+      "name": "星巴克 (重陽集賢門市)",
+      "label_type": "business",
+      "content": {
+        "detail_type": "business_page",
+        "icon": "https://bamboowand.github.io/pictures/%E6%96%B0%E5%8C%97.png",
+        "description": "新北市三重區集賢路137號，店面活動：新店開幕好禮大放送！！！購買任意相兩杯同飲品享有好友分享買一送一活動，其中一杯店家免費贈送！",
+        "livetour_url": "https://livetour.istaging.com/?group=16b91fc2-f167-4290-86a9-2bd4b3fa2c39&index=7&panobar=false",
+        "livetour_texture": "https://bamboowand.github.io/pictures/%E6%96%B0%E5%8C%97.png"
+      }
+    },
+    {
       "longitude": 121.549316,
       "altitide": 0,
       "latitude": 25.053886,
