@@ -1,8 +1,15 @@
 [
   {
-    "longitude": 121.550991,
+    "staging_setting": {
+      "photograph": true,
+      "photograph_show_ar": false
+    }
+  },
+  {
+    "id": 0,
+    "longitude": 121.550944,
     "altitide": 0,
-    "latitude": 25.050346,
+    "latitude": 25.051201,
     "name": "小巨蛋旁地下停車場",
     "label_type": "park",
     "content": {
@@ -11,6 +18,7 @@
     }
   },
   {
+    "id": 1,
     "longitude": 121.551802,
     "altitide": 0,
     "name": "體育館前停車場",
@@ -22,6 +30,7 @@
     }
   },
   {
+    "id": 2,
     "longitude": 121.55047,
     "altitide": 0,
     "name": "星巴克 (台視門市)",
@@ -37,6 +46,7 @@
     }
   },
   {
+    "id": 3,
     "longitude": 121.548504,
     "altitide": 0,
     "latitude": 25.052197,
@@ -51,6 +61,7 @@
     }
   },
   {
+    "id": 4,
     "longitude": 121.544472,
     "altitide": 0,
     "latitude": 25.052556,
@@ -65,6 +76,7 @@
     }
   },
     {
+    "id": 5,
     "longitude": 121.526461,
     "altitide": 0,
     "latitude": 25.088356,
@@ -79,6 +91,7 @@
     }
   },
   {
+    "id": 6,
     "longitude": 121.489208,
     "altitide": 0,
     "latitude": 25.089474,
@@ -93,6 +106,7 @@
     }
   },
   {
+    "id": 7,
     "longitude": 121.549316,
     "altitide": 0,
     "latitude": 25.053886,
@@ -107,6 +121,7 @@
     }
   },
   {
+    "id": 8,
     "longitude": 121.549845,
     "altitide": 0,
     "latitude": 25.051199,
@@ -124,6 +139,7 @@
     }
   },
   {
+    "id": 9,
     "longitude": 121.550172,
     "altitide": 0,
     "latitude": 25.050077,
@@ -141,6 +157,7 @@
     }
   },
   {
+    "id": 10,
     "longitude": 121.54964,
     "altitide": 0,
     "name": "小巨蛋站前公車站",
@@ -167,6 +184,7 @@
     }
   },
   {
+    "id":11,
     "longitude": 121.550503,
     "altitide": 0,
     "name": "台視電視台",
@@ -179,6 +197,7 @@
     }
   },
   {
+    "id": 12,
     "longitude": 121.550071,
     "altitide": 0,
     "name": "Pizza Hut 敦化餐廳",
@@ -191,6 +210,7 @@
     }
   },
   {
+    "id": 13,
     "longitude": 121.549892,
     "altitide": 0,
     "latitude": 25.045779,
@@ -208,8 +228,9 @@
     }
   },
   {
+    "id": 14,
     "longitude":121.549400,
-    "altitide": 0,
+    "altitide": 6,
     "latitude": 25.044955,
     "name": "東區亮麗美套",
     "label_type": "rent",
@@ -225,8 +246,9 @@
     }
   },
   {
+    "id": 15,
     "longitude":121.550025,
-    "altitide": 0,
+    "altitide": 9,
     "latitude": 25.044513,
     "name": "名喬建設美寓",
     "label_type": "rent",
@@ -242,6 +264,7 @@
     }
   },
   {
+    "id": 16,
     "longitude": 121.549599,
     "altitide": 0,
     "latitude": 25.045052,
@@ -259,6 +282,7 @@
     }
   },
    {
+     "id": 17,
     "longitude": 121.548622,
     "altitide": 0,
     "latitude": 25.046002,
@@ -275,8 +299,9 @@
       "livetour_texture": "https://bamboowand.github.io/pictures/%E5%B0%8F%E5%B7%A8%E8%9B%8B.png"
     }
   }, {
+    "id": 18,
     "longitude": 121.548094,
-    "altitide": 0,
+    "altitide": 15,
     "latitude": 25.042953,
     "name": "光武大廈豪邸",
     "label_type": "rent",
@@ -292,6 +317,7 @@
     }
   },
   {
+    "id": 19,
     "longitude":121.524450,
     "altitide": 0,
     "latitude":25.051811,
@@ -306,6 +332,7 @@
     }
   },
   {
+    "id": 20,
     "longitude":  121.513967,
     "altitide": 0,
     "latitude": 25.053843,
@@ -320,6 +347,7 @@
     }
   },
   {
+    "id": 21,
     "longitude": 121.519622,
     "altitide": 0,
     "latitude":  25.052531,
@@ -334,6 +362,7 @@
     }
   },
   {
+    "id": 22,
     "longitude": 121.525759,
     "altitide": 0,
     "latitude":  25.053920,
@@ -348,6 +377,7 @@
     }
   },
   {
+    "id": 23,
     "longitude": 121.518828,
     "altitide": 0,
     "latitude":  25.048899,
@@ -362,6 +392,7 @@
     }
   },
   {
+    "id": 24,
     "longitude":  121.516819,
     "altitide": 0,
     "latitude":  25.047483,
@@ -376,6 +407,7 @@
     }
   },
   {
+    "id": 25,
     "longitude": 121.525831,
     "altitide": 0,
     "name": "林森公園 鳥居",
@@ -388,6 +420,7 @@
     }
   },
   {
+    "id": 26,
     "longitude":  121.525959,
     "altitide": 0,
     "name": "林森公園 岳飛紀念銅像",
@@ -400,6 +433,7 @@
     }
   },
   {
+    "id": 27,
     "longitude": 121.525831,
     "altitide": 0,
     "name": "明石元二郎墓舊址",
