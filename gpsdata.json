@@ -1,8 +1,10 @@
 [
   {
     "staging_setting": {
+      "style": "democenter",
       "photograph": true,
-      "photograph_show_ar": false
+      "photograph_show_ar": false,
+      "ignore_altitude": false
     }
   },
   {
