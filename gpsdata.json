@@ -7,7 +7,7 @@
     "label_type": "park",
     "content": {
       "total": 200,
-      "current": 100
+      "current": 132
     }
   },
   {
@@ -17,8 +17,8 @@
     "latitude": 25.0516,
     "label_type": "park",
     "content": {
-      "total": 123,
-      "current": 34
+      "total": 180,
+      "current": 180
     }
   },
   {
@@ -188,6 +188,227 @@
       "detail_type": "web_page",
       "icon": "https://bamboowand.github.io/pictures/PizzaHut%E6%95%A6%E5%8C%96%E9%A4%90%E5%BB%B3.png",
       "web_url": "https://www.pizzahut.com.tw/?urlname=iP2018Gsearch&gclid=CjwKCAjw_-D3BRBIEiwAjVMy7IhpAWI3X3_u_xqZiHPSrURPWJP8lRYttGVhnxQw-G_rSRVGd_JUghoCnnUQAvD_BwE&gclsrc=aw.ds"
+    }
+  },
+  {
+    "longitude": 121.549892,
+    "altitide": 0,
+    "latitude": 25.045779,
+    "name": "雙敦面公園一樓",
+    "label_type": "rent",
+    "content": {
+      "detail_type": "rent_page",
+      "icon": "https://hp2.591.com.tw/house/active/2019/07/16/156327525272916700_730x460.water3.jpg",
+      "title": "100 萬/坪",
+      "subtitle_1": "前庭院",
+      "subtitle_2": "4房2廳2衛",
+      "description": "明星學區，敦化國小、中，近小巨蛋、市立體育場、城市舞台、台視，近市場、百貨，交通機能超便利,三面採光 格局方正 間間採光 通風好 隱密性高，居住品質高 巷寬 單純。。",
+      "livetour_url": "https://livetour.istaging.com/?group=16b91fc2-f167-4290-86a9-2bd4b3fa2c39&index=7&panobar=false",
+      "livetour_texture": "https://bamboowand.github.io/pictures/%E5%B0%8F%E5%B7%A8%E8%9B%8B.png"
+    }
+  },
+  {
+    "longitude":121.549400,
+    "altitide": 0,
+    "latitude": 25.044955,
+    "name": "東區亮麗美套",
+    "label_type": "rent",
+    "content": {
+      "detail_type": "rent_page",
+      "icon": "https://fps.hfcdn.com/v1/image/?key=NF58Ko5oaCsgG6n2w_Larw8fWI1dHkSzuw6uyXS-B86qND2lpkw3GfIPc1u0tGuSqVhtUUJ4lA_cF1mBh5MY1RWd5eEaa7mn9qxu8f6s-rtKfVoBsurTgAnsNQ3b1ueVa0jD0JJgeWt02Xc92Hgeax9ptXAdU5ZuHyqQdxAoaDgB84hAAJBJ-aPJnP6QjjHNJdO-8s9VPXXQ_ruSEFqcK8ShYsvown2RbJENeZqhwTM&width=100&height=75",
+      "title": "110 萬/坪",
+      "subtitle_1": "敦南大夏美套",
+      "subtitle_2": "1房1廳1衛",
+      "description": "明星學區，敦化國小、中，近小巨蛋、市立體育場、城市舞台、台視，近市場、百貨，交通機能超便利,三面採光 格局方正 間間採光 通風好 隱密性高，居住品質高 巷寬 單純。。",
+      "livetour_url": "https://livetour.istaging.com/?group=16b91fc2-f167-4290-86a9-2bd4b3fa2c39&index=7&panobar=false",
+      "livetour_texture": "https://bamboowand.github.io/pictures/%E5%B0%8F%E5%B7%A8%E8%9B%8B.png"
+    }
+  },
+  {
+    "longitude":121.550025,
+    "altitide": 0,
+    "latitude": 25.044513,
+    "name": "名喬建設美寓",
+    "label_type": "rent",
+    "content": {
+      "detail_type": "rent_page",
+      "icon": "https://hp1.591.com.tw/house/active/2019/06/21/156108160452189801_730x460.water3.jpg",
+      "title": "130 萬/坪",
+      "subtitle_1": "名喬建設美寓",
+      "subtitle_2": "2房1廳1衛",
+      "description": "明星學區，敦化國小、中，近小巨蛋、市立體育場、城市舞台、台視，近市場、百貨，交通機能超便利,三面採光 格局方正 間間採光 通風好 隱密性高，居住品質高 巷寬 單純。",
+      "livetour_url": "https://livetour.istaging.com/?group=16b91fc2-f167-4290-86a9-2bd4b3fa2c39&index=7&panobar=false",
+      "livetour_texture": "https://bamboowand.github.io/pictures/%E5%B0%8F%E5%B7%A8%E8%9B%8B.png"
+    }
+  },
+  {
+    "longitude": 121.549599,
+    "altitide": 0,
+    "latitude": 25.045052,
+    "name": "樞苑大廈店面",
+    "label_type": "rent",
+    "content": {
+      "detail_type": "rent_page",
+      "icon": "http://cdn.simplesite.com/i/76/b3/283445307200746358/i283445314569059521._szw480h1280_.jpg",
+      "title": "150 萬/坪",
+      "subtitle_1": "樞苑大廈店面",
+      "subtitle_2": "店面",
+      "description": "近捷運，公車站，交通四通八達，商圈熱鬧擁擠。",
+      "livetour_url": "https://livetour.istaging.com/?group=16b91fc2-f167-4290-86a9-2bd4b3fa2c39&index=7&panobar=false",
+      "livetour_texture": "https://bamboowand.github.io/pictures/%E5%B0%8F%E5%B7%A8%E8%9B%8B.png"
+    }
+  },
+   {
+    "longitude": 121.548622,
+    "altitide": 0,
+    "latitude": 25.046002,
+    "name": "國棟大廈店面",
+    "label_type": "rent",
+    "content": {
+      "detail_type": "rent_page",
+      "icon": "https://res.sinyi.com.tw/community/0006360/bigimg/A4.JPG",
+      "title": "150 萬/坪",
+      "subtitle_1": "國棟大廈店面",
+      "subtitle_2": "店面",
+      "description": "近捷運，公車站，交通四通八達，商圈熱鬧擁擠。",
+      "livetour_url": "https://livetour.istaging.com/?group=16b91fc2-f167-4290-86a9-2bd4b3fa2c39&index=7&panobar=false",
+      "livetour_texture": "https://bamboowand.github.io/pictures/%E5%B0%8F%E5%B7%A8%E8%9B%8B.png"
+    }
+  }, {
+    "longitude": 121.548094,
+    "altitide": 0,
+    "latitude": 25.042953,
+    "name": "光武大廈豪邸",
+    "label_type": "rent",
+    "content": {
+      "detail_type": "rent_page",
+      "icon": "https://fps.hfcdn.com/v1/image/?key=NF58Ko5oaCts9FknheVvJvoczSbWiUi5od-byQ37GRhS7gYd42gQaSPIgS6jIG2tqVhtUUJ4lA_cF1mBh5MY1RWd5eEaa7mn9qxu8f6s-rtKfVoBsurTgAnsNQ3b1ueVa0jD0JJgeWt02Xc92Hgeax9ptXAdU5ZuHyqQdxAoaDgB84hAAJBJ-aPJnP6QjjHNJdO-8s9VPXXQ_ruSEFqcK8ShYsvown2RbJENeZqhwTM&width=480&height=0",
+      "title": "180 萬/坪",
+      "subtitle_1": "光武大廈豪邸",
+      "subtitle_2": "四房兩廳三衛",
+      "description": "明星學區，敦化國小、中，近小巨蛋、市立體育場、城市舞台、台視，近市場、百貨，交通機能超便利,三面採光 格局方正 間間採光 通風好 隱密性高，居住品質高 巷寬 單純。",
+      "livetour_url": "https://livetour.istaging.com/?group=16b91fc2-f167-4290-86a9-2bd4b3fa2c39&index=7&panobar=false",
+      "livetour_texture": "https://bamboowand.github.io/pictures/%E5%B0%8F%E5%B7%A8%E8%9B%8B.png"
+    }
+  },
+  {
+    "longitude":121.524450,
+    "altitide": 0,
+    "latitude":25.051811,
+    "name": "星巴克 (南京林森門市)",
+    "label_type": "business",
+    "content": {
+      "detail_type": "business_page",
+      "icon": "https://bamboowand.github.io/pictures/%E6%95%A6%E5%8C%96%E9%96%80%E5%B8%82.png",
+      "description": "105台北市松山區敦化北路147號1F，店面活動：新店開幕好禮大放送！！！購買任意相兩杯同飲品享有好友分享買一送一活動，其中一杯店家免費贈送！",
+      "livetour_url": "https://livetour.istaging.com/?group=16b91fc2-f167-4290-86a9-2bd4b3fa2c39&index=7&panobar=false",
+      "livetour_texture": "https://bamboowand.github.io/pictures/%E6%95%A6%E5%8C%96%E9%96%80%E5%B8%82.png"
+    }
+  },
+  {
+    "longitude":  121.513967,
+    "altitide": 0,
+    "latitude": 25.053843,
+    "name": "星巴克 (台北圓環門市)",
+    "label_type": "business",
+    "content": {
+      "detail_type": "business_page",
+      "icon": "https://bamboowand.github.io/pictures/%E6%95%A6%E5%8C%96%E9%96%80%E5%B8%82.png",
+      "description": "105台北市松山區敦化北路147號1F，店面活動：新店開幕好禮大放送！！！購買任意相兩杯同飲品享有好友分享買一送一活動，其中一杯店家免費贈送！",
+      "livetour_url": "https://livetour.istaging.com/?group=16b91fc2-f167-4290-86a9-2bd4b3fa2c39&index=7&panobar=false",
+      "livetour_texture": "https://bamboowand.github.io/pictures/%E6%95%A6%E5%8C%96%E9%96%80%E5%B8%82.png"
+    }
+  },
+  {
+    "longitude": 121.519622,
+    "altitide": 0,
+    "latitude":  25.052531,
+    "name": "星巴克 (南京西門市)",
+    "label_type": "business",
+    "content": {
+      "detail_type": "business_page",
+      "icon": "https://bamboowand.github.io/pictures/%E6%95%A6%E5%8C%96%E9%96%80%E5%B8%82.png",
+      "description": "105台北市松山區敦化北路147號1F，店面活動：新店開幕好禮大放送！！！購買任意相兩杯同飲品享有好友分享買一送一活動，其中一杯店家免費贈送！",
+      "livetour_url": "https://livetour.istaging.com/?group=16b91fc2-f167-4290-86a9-2bd4b3fa2c39&index=7&panobar=false",
+      "livetour_texture": "https://bamboowand.github.io/pictures/%E6%95%A6%E5%8C%96%E9%96%80%E5%B8%82.png"
+    }
+  },
+  {
+    "longitude": 121.525759,
+    "altitide": 0,
+    "latitude":  25.053920,
+    "name": "星巴克 (林森門市)",
+    "label_type": "business",
+    "content": {
+      "detail_type": "business_page",
+      "icon": "https://bamboowand.github.io/pictures/%E6%95%A6%E5%8C%96%E9%96%80%E5%B8%82.png",
+      "description": "105台北市松山區敦化北路147號1F，店面活動：新店開幕好禮大放送！！！購買任意相兩杯同飲品享有好友分享買一送一活動，其中一杯店家免費贈送！",
+      "livetour_url": "https://livetour.istaging.com/?group=16b91fc2-f167-4290-86a9-2bd4b3fa2c39&index=7&panobar=false",
+      "livetour_texture": "https://bamboowand.github.io/pictures/%E6%95%A6%E5%8C%96%E9%96%80%E5%B8%82.png"
+    }
+  },
+  {
+    "longitude": 121.518828,
+    "altitide": 0,
+    "latitude":  25.048899,
+    "name": "星巴克 (京站二門市)",
+    "label_type": "business",
+    "content": {
+      "detail_type": "business_page",
+      "icon": "https://bamboowand.github.io/pictures/%E6%95%A6%E5%8C%96%E9%96%80%E5%B8%82.png",
+      "description": "105台北市松山區敦化北路147號1F，店面活動：新店開幕好禮大放送！！！購買任意相兩杯同飲品享有好友分享買一送一活動，其中一杯店家免費贈送！",
+      "livetour_url": "https://livetour.istaging.com/?group=16b91fc2-f167-4290-86a9-2bd4b3fa2c39&index=7&panobar=false",
+      "livetour_texture": "https://bamboowand.github.io/pictures/%E6%95%A6%E5%8C%96%E9%96%80%E5%B8%82.png"
+    }
+  },
+  {
+    "longitude":  121.516819,
+    "altitide": 0,
+    "latitude":  25.047483,
+    "name": "星巴克 (台鐵一門市)",
+    "label_type": "business",
+    "content": {
+      "detail_type": "business_page",
+      "icon": "https://bamboowand.github.io/pictures/%E6%95%A6%E5%8C%96%E9%96%80%E5%B8%82.png",
+      "description": "105台北市松山區敦化北路147號1F，店面活動：新店開幕好禮大放送！！！購買任意相兩杯同飲品享有好友分享買一送一活動，其中一杯店家免費贈送！",
+      "livetour_url": "https://livetour.istaging.com/?group=16b91fc2-f167-4290-86a9-2bd4b3fa2c39&index=7&panobar=false",
+      "livetour_texture": "https://bamboowand.github.io/pictures/%E6%95%A6%E5%8C%96%E9%96%80%E5%B8%82.png"
+    }
+  },
+  {
+    "longitude": 121.525831,
+    "altitide": 0,
+    "name": "林森公園 鳥居",
+    "latitude": 25.053302,
+    "label_type": "scene",
+    "content": {
+      "detail_type": "web_page",
+      "icon": "https://pbs.twimg.com/media/BjodYB6IMAE3MaD?format=jpg&name=medium",
+      "web_url": "http://www.wfps.tp.edu.tw/2013/sub3-7-3.html"
+    }
+  },
+  {
+    "longitude":  121.525959,
+    "altitide": 0,
+    "name": "林森公園 岳飛紀念銅像",
+    "latitude":25.052566,
+    "label_type": "scene",
+    "content": {
+      "detail_type": "web_page",
+      "icon": "https://www.thinkingtaiwan.com/sites/default/files/images/insert/policy/dsc03813.jpg",
+      "web_url": "http://www.wfps.tp.edu.tw/2013/sub3-7-3.html"
+    }
+  },
+  {
+    "longitude": 121.525831,
+    "altitide": 0,
+    "name": "明石元二郎墓舊址",
+    "latitude": 25.053418,
+    "label_type": "scene",
+    "content": {
+      "detail_type": "web_page",
+      "icon": "http://www.wfps.tp.edu.tw/2013/images/sub3-7-3.jpg",
+      "web_url": "http://www.wfps.tp.edu.tw/2013/sub3-7-3.html"
     }
   }
 ]
